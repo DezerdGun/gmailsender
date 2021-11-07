@@ -1,0 +1,2 @@
+# gmailsender
+DO NOT FORGET HOW TO SEND SMS FROM SITE WITH GMAIL !!!!
